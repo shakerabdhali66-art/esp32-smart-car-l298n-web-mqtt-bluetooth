@@ -1,5 +1,5 @@
 # Circuit Diagram
-
+![ESP32 Smart Car](https://raw.githubusercontent.com/shakerabdhali66-art/esp32-smart-car-l298n-web-mqtt-bluetooth/main/Arduino_code/Circuit_Diagram/Inkedsmart%20car_LI.jpg)
 ## Components
 - ESP32 Dev Module
 - L298N Motor Driver
